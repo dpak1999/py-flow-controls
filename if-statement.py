@@ -13,7 +13,7 @@ if a == True:
 if a:
     print('University')
     print('Gunupur')
-if a:
+if not a:
     print('you guys are awsome')
     print('carry on')
 #-----------------------------------------
